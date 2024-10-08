@@ -1,0 +1,276 @@
+.header{
+    background-color: rgb(1, 166, 243);
+}
+.container-fluid{
+    margin: 0px 100px;
+}
+
+ul {
+    margin-left: 250px;
+}
+
+ul li{
+    padding: 0px 10px;
+}
+
+.nav-link{
+    color: #f4f4f4;
+}
+
+.col-lg-6 h1{
+    font-size: 44px;
+    color: #f4f4f4;
+}
+.lead{
+    color: #f4f4f4;
+}
+
+.mb-4{
+    color: black;
+    font-size: 20px;
+}
+
+.work_inner{
+    margin: 0px 120px;
+}
+
+.sticky{
+    position:fixed;
+    top:0;
+    width:100%;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+}
+
+h4{
+    text-align: center;
+}
+
+
+.work-item{
+    padding: 0px 50px;
+}
+
+.work-p{
+    text-align: center;
+    padding: 0px 50px;
+    
+}
+
+.section2{
+    background-color: #edf6ff;
+    margin-top: 100px;
+}
+.nav{
+    margin-right: 140px;
+    margin-top: 20px;
+}
+/*.nav-item{
+   margin: 0px 10px;
+   font-size: 18px;
+   background-color: #f4f4f4;
+}*/
+
+.nav .nav-item{
+    margin-top: 100px;
+}
+
+
+.nav2 a{
+    display: inline-block;
+    background-image: linear-gradient(to right,#4dabff 0%,#62ddff 48%,#4dabff 100%);
+    background-size: 200% auto;
+    padding: 0 35px;
+    color: #fff;
+    font-family: "Roboto",sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 50px;
+    border-radius: 5px;
+    outline: none!important;
+    box-shadow: none!important;
+    text-align: center;
+    cursor: pointer;
+    transition: all 300ms linear 0s;
+    
+}
+.btn-primary{
+    display: inline-block;
+    background-image: linear-gradient(to right,#4dabff 0%,#62ddff 48%,#4dabff 100%);
+    background-size: 200% auto;
+    padding: 0 25px;
+    color: #fff;
+    font-family: "Roboto",sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 50px;
+    border-radius: 5px;
+    outline: none!important;
+    box-shadow: none!important;
+    text-align: center;
+    cursor: pointer;
+    transition: all 300ms linear 0s;
+
+}
+
+.row2 h1{
+    color: rgb(44, 40, 40);
+    font-size: 38px;
+}
+.row2 p{
+    color:rgb(185, 170, 170);
+    font-size: 16px;
+}
+
+.column{
+    margin-top: 90px;
+}
+
+.column h1{
+    color: black;
+    text-align: center;
+    font-size: 38px;
+    font-weight: 700;
+}
+
+.column p{
+    text-align: center;
+    font-size: 16px;
+}
+
+
+
+.column2{
+    display: flex;
+}
+
+.price_item{
+    text-align: center;
+    border: 1px solid #eee;
+    border-radius: 5px;
+}
+.list{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.price_head h4{
+    font-size: 20px;
+    font-weight: 700;
+}
+.price_head {
+    text-align: center;
+    background: #edf6ff;
+    padding: 35px 90px;
+    border-bottom: 1px solid #eee;
+}
+
+.list a{
+    line-height: 3;
+    font-size: 16px;
+    color: darkgray;
+}
+
+
+.list,
+.price_head{
+    margin-bottom: 15px;
+}
+
+.price_footer{
+    display: inline-block;
+    background-image: linear-gradient(to right,#4dabff 0%,#62ddff 48%,#4dabff 100%);
+    background-size: 200% auto;
+    padding: 25px 75px;
+    margin:35px;
+    color: #fff;
+    font-family: "Roboto",sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 50px;
+    border-radius: 5px;
+    outline: none!important;
+    box-shadow: none!important;
+    text-align: center;
+    cursor: pointer;
+    transition: all 300ms linear 0s;
+}
+
+.dlr{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.price_footer h3{
+    font-size: 53px;
+}
+
+.price_footer  .month{
+    font-size: 20px;
+}
+
+.price_item{
+    margin-left:80px;
+    margin-top:20px;
+}
+
+
+
+
+
+.column3{
+    background-color:rgb(1, 166, 243);
+    width:100%;
+    height:100%;
+    padding:100px;
+}
+
+.button{
+    display: inline-block;
+    background: #fff;
+    color: #222;
+    font-family: "Roboto",sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    border: 1px solid rgba(255,255,255,.5);
+    line-height: 48px;
+    border-radius: 3px;
+    outline: none!important;
+    box-shadow: none!important;
+    cursor: pointer;
+    transition: all 300ms linear 0s;
+    margin-left:240px;
+
+}
+    
+.footer{
+    background-color:#000410;
+    padding:100px;
+}
+
+.f_title{
+    color:#fff;
+    font-size:14px;
+}
+
+.btn3{
+    background-color: #4dabff;
+}
+
+.lnr{
+    color: #eee;
+    padding: 5px;
+    
+}
+
+.ab_widget a{
+    color: blue;
+}
+
+.social_widget li{
+    display: inline-block;
+}
